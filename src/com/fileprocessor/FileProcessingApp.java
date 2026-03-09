@@ -24,6 +24,20 @@ public class FileProcessingApp {
             }
         }
 
+        textFiles.sort((f1, f2) -> {
+
+            long time1 = f1.lastModified();
+            long time2 = f2.lastModified();
+
+            int compareTime = Long.compare(time1, time2);
+
+            if (compareTime != 0) {
+                return compareTime;
+            }
+
+            return f1.getName().compareTo(f2.getName());
+        });
+
         System.out.println("Total files found: " + textFiles.size());
         System.out.println("Processing files...\n");
 

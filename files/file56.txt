@@ -1,3 +1,6 @@
-File processing is a common backend task
-Java is a powerful programming language
-File processing is a common backend task
+Multithreading improves performance
+ExecutorService manages thread pools
+Multithreading improves performance
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution

@@ -1,5 +1,4 @@
-Multithreading improves performance
-Data structures improve algorithm efficiency
-File processing is a common backend task
-File processing is a common backend task
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution
 Java is a powerful programming language
+ExecutorService manages thread pools

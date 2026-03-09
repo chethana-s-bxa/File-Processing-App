@@ -1,5 +1,4 @@
-Data structures improve algorithm efficiency
 Multithreading improves performance
-ExecutorService manages thread pools
-ExecutorService manages thread pools
-Data structures improve algorithm efficiency
+Concurrency allows parallel task execution
+Multithreading improves performance
+Multithreading improves performance

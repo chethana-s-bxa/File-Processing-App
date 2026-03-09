@@ -1,3 +1,4 @@
 Concurrency allows parallel task execution
-Data structures improve algorithm efficiency
-ExecutorService manages thread pools
+Multithreading improves performance
+Multithreading improves performance
+Concurrency allows parallel task execution

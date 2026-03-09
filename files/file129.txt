@@ -1,3 +1,6 @@
-Data structures improve algorithm efficiency
-Spring Boot is widely used for microservices
-Data structures improve algorithm efficiency
+Multithreading improves performance
+Multithreading improves performance
+Java is a powerful programming language
+Java is a powerful programming language
+Multithreading improves performance
+Concurrency allows parallel task execution

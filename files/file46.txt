@@ -1,4 +1,4 @@
-Data structures improve algorithm efficiency
+Multithreading improves performance
+Multithreading improves performance
+Java is a powerful programming language
 Concurrency allows parallel task execution
-Concurrency allows parallel task execution
-Spring Boot is widely used for microservices

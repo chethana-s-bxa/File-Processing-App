@@ -1,4 +1,7 @@
-Spring Boot is widely used for microservices
-Spring Boot is widely used for microservices
-Java is a powerful programming language
-Artificial Intelligence is transforming industries
+ExecutorService manages thread pools
+ExecutorService manages thread pools
+Concurrency allows parallel task execution
+ExecutorService manages thread pools
+Multithreading improves performance
+Multithreading improves performance
+Concurrency allows parallel task execution

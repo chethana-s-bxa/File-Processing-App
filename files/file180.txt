@@ -1,4 +1,7 @@
+Java is a powerful programming language
 ExecutorService manages thread pools
-Spring Boot is widely used for microservices
-Multithreading improves performance
-Multithreading improves performance
+Concurrency allows parallel task execution
+Java is a powerful programming language
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution
+Java is a powerful programming language
