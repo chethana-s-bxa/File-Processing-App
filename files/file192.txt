@@ -1,0 +1,4 @@
+File processing is a common backend task
+Artificial Intelligence is transforming industries
+Multithreading improves performance
+ExecutorService manages thread pools

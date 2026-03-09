@@ -1,0 +1,4 @@
+Spring Boot is widely used for microservices
+ExecutorService manages thread pools
+Data structures improve algorithm efficiency
+ExecutorService manages thread pools

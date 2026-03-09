@@ -1,0 +1,5 @@
+Spring Boot is widely used for microservices
+File processing is a common backend task
+Multithreading improves performance
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution

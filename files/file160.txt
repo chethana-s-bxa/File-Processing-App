@@ -1,0 +1,6 @@
+Multithreading improves performance
+Spring Boot is widely used for microservices
+Data structures improve algorithm efficiency
+ExecutorService manages thread pools
+Multithreading improves performance
+Spring Boot is widely used for microservices

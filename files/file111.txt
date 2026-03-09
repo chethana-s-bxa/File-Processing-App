@@ -1,0 +1,6 @@
+ExecutorService manages thread pools
+Artificial Intelligence is transforming industries
+Data structures improve algorithm efficiency
+Spring Boot is widely used for microservices
+ExecutorService manages thread pools
+Java is a powerful programming language

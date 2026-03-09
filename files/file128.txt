@@ -1,0 +1,5 @@
+Artificial Intelligence is transforming industries
+ExecutorService manages thread pools
+ExecutorService manages thread pools
+Multithreading improves performance
+Multithreading improves performance

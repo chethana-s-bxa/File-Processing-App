@@ -10,6 +10,8 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
+import static com.fileprocessor.GenerateFile.generateDummyFiles;
+
 public class FileProcessingApp {
 
     private static FileStats processBatch(List<File> batch) {
@@ -57,7 +59,7 @@ public class FileProcessingApp {
     public static void main(String[] args) {
         int totalLines=0;
         int totalWords=0;
-
+        GenerateFile.generateDummyFiles(200);
         long startTime = System.currentTimeMillis();
 
         System.out.println("Scanning directory......\n");

@@ -1,0 +1,4 @@
+Artificial Intelligence is transforming industries
+Multithreading improves performance
+Spring Boot is widely used for microservices
+ExecutorService manages thread pools

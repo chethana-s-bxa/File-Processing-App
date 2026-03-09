@@ -1,0 +1,5 @@
+Data structures improve algorithm efficiency
+ExecutorService manages thread pools
+Data structures improve algorithm efficiency
+File processing is a common backend task
+Multithreading improves performance

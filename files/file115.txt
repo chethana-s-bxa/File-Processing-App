@@ -1,0 +1,3 @@
+Multithreading improves performance
+ExecutorService manages thread pools
+Data structures improve algorithm efficiency

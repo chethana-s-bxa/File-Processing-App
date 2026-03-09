@@ -1,0 +1,4 @@
+ExecutorService manages thread pools
+Spring Boot is widely used for microservices
+Multithreading improves performance
+File processing is a common backend task

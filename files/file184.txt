@@ -1,0 +1,3 @@
+Data structures improve algorithm efficiency
+Spring Boot is widely used for microservices
+Artificial Intelligence is transforming industries

@@ -1,0 +1,7 @@
+Multithreading improves performance
+ExecutorService manages thread pools
+File processing is a common backend task
+File processing is a common backend task
+ExecutorService manages thread pools
+Multithreading improves performance
+Data structures improve algorithm efficiency

@@ -1,0 +1,4 @@
+Spring Boot is widely used for microservices
+Multithreading improves performance
+Artificial Intelligence is transforming industries
+File processing is a common backend task

@@ -1,0 +1,7 @@
+Multithreading improves performance
+File processing is a common backend task
+Java is a powerful programming language
+Spring Boot is widely used for microservices
+Java is a powerful programming language
+Java is a powerful programming language
+Multithreading improves performance

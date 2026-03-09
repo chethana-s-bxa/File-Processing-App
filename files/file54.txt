@@ -1,0 +1,3 @@
+Data structures improve algorithm efficiency
+Concurrency allows parallel task execution
+Artificial Intelligence is transforming industries

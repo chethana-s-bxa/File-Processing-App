@@ -1,0 +1,4 @@
+Multithreading improves performance
+Concurrency allows parallel task execution
+Spring Boot is widely used for microservices
+ExecutorService manages thread pools

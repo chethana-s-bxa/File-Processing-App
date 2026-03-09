@@ -1,0 +1,5 @@
+Spring Boot is widely used for microservices
+Artificial Intelligence is transforming industries
+Concurrency allows parallel task execution
+Multithreading improves performance
+Artificial Intelligence is transforming industries

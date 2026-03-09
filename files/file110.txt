@@ -1,0 +1,5 @@
+Data structures improve algorithm efficiency
+Multithreading improves performance
+File processing is a common backend task
+Concurrency allows parallel task execution
+Artificial Intelligence is transforming industries

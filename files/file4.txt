@@ -1,0 +1,3 @@
+Data structures improve algorithm efficiency
+Artificial Intelligence is transforming industries
+File processing is a common backend task

@@ -1,0 +1,7 @@
+Concurrency allows parallel task execution
+ExecutorService manages thread pools
+File processing is a common backend task
+Data structures improve algorithm efficiency
+Concurrency allows parallel task execution
+Multithreading improves performance
+Concurrency allows parallel task execution
