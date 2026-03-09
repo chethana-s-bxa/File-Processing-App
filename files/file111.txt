@@ -1,6 +1,7 @@
-ExecutorService manages thread pools
-Artificial Intelligence is transforming industries
-Data structures improve algorithm efficiency
-Spring Boot is widely used for microservices
+File processing is a common backend task
+Java is a powerful programming language
 ExecutorService manages thread pools
 Java is a powerful programming language
+Concurrency allows parallel task execution
+Spring Boot is widely used for microservices
+File processing is a common backend task

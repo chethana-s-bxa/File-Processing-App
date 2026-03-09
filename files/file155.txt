@@ -1,4 +1,4 @@
 Concurrency allows parallel task execution
-Concurrency allows parallel task execution
-Concurrency allows parallel task execution
-Data structures improve algorithm efficiency
+ExecutorService manages thread pools
+File processing is a common backend task
+Artificial Intelligence is transforming industries

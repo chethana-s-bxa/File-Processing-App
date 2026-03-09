@@ -1,3 +1,4 @@
-Multithreading improves performance
+Data structures improve algorithm efficiency
 File processing is a common backend task
-Concurrency allows parallel task execution
+Data structures improve algorithm efficiency
+Data structures improve algorithm efficiency

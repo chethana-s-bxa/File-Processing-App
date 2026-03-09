@@ -1,3 +1,6 @@
-Data structures improve algorithm efficiency
+Spring Boot is widely used for microservices
+Spring Boot is widely used for microservices
+Multithreading improves performance
 Concurrency allows parallel task execution
+Data structures improve algorithm efficiency
 Artificial Intelligence is transforming industries

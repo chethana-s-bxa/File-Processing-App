@@ -1,3 +1,4 @@
-Java is a powerful programming language
-Concurrency allows parallel task execution
+Data structures improve algorithm efficiency
+Spring Boot is widely used for microservices
+Artificial Intelligence is transforming industries
 ExecutorService manages thread pools

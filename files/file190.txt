@@ -1,6 +1,7 @@
-Spring Boot is widely used for microservices
-Spring Boot is widely used for microservices
 Concurrency allows parallel task execution
-File processing is a common backend task
-Artificial Intelligence is transforming industries
+Data structures improve algorithm efficiency
 ExecutorService manages thread pools
+File processing is a common backend task
+Java is a powerful programming language
+Data structures improve algorithm efficiency
+Data structures improve algorithm efficiency

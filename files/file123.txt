@@ -1,3 +1,5 @@
+Data structures improve algorithm efficiency
+File processing is a common backend task
 ExecutorService manages thread pools
-Data structures improve algorithm efficiency
-Data structures improve algorithm efficiency
+Concurrency allows parallel task execution
+File processing is a common backend task

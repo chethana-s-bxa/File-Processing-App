@@ -1,4 +1,5 @@
 Data structures improve algorithm efficiency
-ExecutorService manages thread pools
-Artificial Intelligence is transforming industries
-Artificial Intelligence is transforming industries
+Multithreading improves performance
+Concurrency allows parallel task execution
+Spring Boot is widely used for microservices
+Multithreading improves performance

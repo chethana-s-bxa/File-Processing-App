@@ -1,3 +1,7 @@
-Artificial Intelligence is transforming industries
+Multithreading improves performance
 Spring Boot is widely used for microservices
-File processing is a common backend task
+Artificial Intelligence is transforming industries
+Artificial Intelligence is transforming industries
+ExecutorService manages thread pools
+Multithreading improves performance
+ExecutorService manages thread pools

@@ -1,6 +1,7 @@
+File processing is a common backend task
+Spring Boot is widely used for microservices
 Multithreading improves performance
-Multithreading improves performance
+Java is a powerful programming language
 Data structures improve algorithm efficiency
-Concurrency allows parallel task execution
-Concurrency allows parallel task execution
-Concurrency allows parallel task execution
+File processing is a common backend task
+ExecutorService manages thread pools

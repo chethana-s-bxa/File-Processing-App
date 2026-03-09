@@ -1,3 +1,4 @@
-File processing is a common backend task
-ExecutorService manages thread pools
-Java is a powerful programming language
+Data structures improve algorithm efficiency
+Spring Boot is widely used for microservices
+Multithreading improves performance
+Multithreading improves performance

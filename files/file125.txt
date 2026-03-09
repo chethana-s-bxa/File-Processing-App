@@ -1,3 +1,6 @@
+ExecutorService manages thread pools
+ExecutorService manages thread pools
 Artificial Intelligence is transforming industries
+Spring Boot is widely used for microservices
 File processing is a common backend task
-Artificial Intelligence is transforming industries
+File processing is a common backend task

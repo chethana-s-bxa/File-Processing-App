@@ -1,7 +1,7 @@
+Multithreading improves performance
 Artificial Intelligence is transforming industries
-Artificial Intelligence is transforming industries
-Concurrency allows parallel task execution
 Artificial Intelligence is transforming industries
 Multithreading improves performance
+File processing is a common backend task
 Data structures improve algorithm efficiency
-ExecutorService manages thread pools
+File processing is a common backend task

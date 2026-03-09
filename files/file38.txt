@@ -1,3 +1,7 @@
-Data structures improve algorithm efficiency
-Java is a powerful programming language
+Artificial Intelligence is transforming industries
+Artificial Intelligence is transforming industries
+Concurrency allows parallel task execution
+Artificial Intelligence is transforming industries
+Concurrency allows parallel task execution
 Multithreading improves performance
+ExecutorService manages thread pools

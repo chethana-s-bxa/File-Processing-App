@@ -1,6 +1,6 @@
+File processing is a common backend task
+File processing is a common backend task
+Data structures improve algorithm efficiency
 Multithreading improves performance
-Data structures improve algorithm efficiency
-Artificial Intelligence is transforming industries
 Multithreading improves performance
-Data structures improve algorithm efficiency
-Data structures improve algorithm efficiency
+ExecutorService manages thread pools

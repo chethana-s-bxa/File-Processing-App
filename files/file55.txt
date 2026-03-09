@@ -1,5 +1,4 @@
-Spring Boot is widely used for microservices
+ExecutorService manages thread pools
+Artificial Intelligence is transforming industries
 File processing is a common backend task
-Multithreading improves performance
-Concurrency allows parallel task execution
-Concurrency allows parallel task execution
+ExecutorService manages thread pools

@@ -1,6 +1,4 @@
-Artificial Intelligence is transforming industries
-ExecutorService manages thread pools
-Java is a powerful programming language
-Artificial Intelligence is transforming industries
-ExecutorService manages thread pools
-Data structures improve algorithm efficiency
+File processing is a common backend task
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution
+Concurrency allows parallel task execution
