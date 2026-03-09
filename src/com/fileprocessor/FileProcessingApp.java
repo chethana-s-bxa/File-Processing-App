@@ -19,6 +19,8 @@ public class FileProcessingApp {
                 if(textFiles.size() == 100) break;
                 if(file.isFile() && file.getName().endsWith(".txt")){
                     textFiles.add(file);
+                    FileStats data = FileProcessor.processFile(file);
+                    System.out.println(data);
                 }
             }
         }
