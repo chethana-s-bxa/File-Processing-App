@@ -8,7 +8,7 @@ public class FileProcessingApp {
     public static void main(String[] args) {
         int totalLines=0;
         int totalWords=0;
-
+        long startTime = System.currentTimeMillis();
         System.out.println("Scanning directory......\n");
 
         File directory = new File("files");
@@ -26,6 +26,7 @@ public class FileProcessingApp {
 
         System.out.println("Total files found: "+textFiles.size()+"\n");
         System.out.println("Processing files......\n");
+
         for(File file : textFiles){
             FileStats data = FileProcessor.processFile(file);
             totalLines += data.getLineCount();
@@ -35,12 +36,14 @@ public class FileProcessingApp {
             System.out.println("Words: "+data.getWordCount());
             System.out.println();
         }
-
+        long endTime = System.currentTimeMillis();
         System.out.println("---------------------------------------------");
         System.out.println("SUMMARY");
         System.out.println("---------------------------------------------");
         System.out.println("Total files processed: "+textFiles.size());
         System.out.println("Total lines: "+totalLines);
         System.out.println("Total words: "+totalWords);
+
+        System.out.println("\nExecution time: "+(endTime-startTime));
     }
 }
