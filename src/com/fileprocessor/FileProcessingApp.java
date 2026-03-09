@@ -8,7 +8,7 @@ public class FileProcessingApp {
     public static void main(String[] args) {
 
 
-        System.out.println("Scanning directory......");
+        System.out.println("Scanning directory......\n");
 
         File directory = new File("files");
         File[] files = directory.listFiles();
@@ -19,11 +19,18 @@ public class FileProcessingApp {
                 if(textFiles.size() == 100) break;
                 if(file.isFile() && file.getName().endsWith(".txt")){
                     textFiles.add(file);
-                    FileStats data = FileProcessor.processFile(file);
-                    System.out.println(data);
                 }
             }
         }
-        System.out.println("Total files found: "+textFiles.size());
+
+        System.out.println("Total files found: "+textFiles.size()+"\n");
+        System.out.println("Processing files......\n");
+        for(File file : textFiles){
+            FileStats data = FileProcessor.processFile(file);
+            System.out.println("File: " +data.getFileName());
+            System.out.println("Lines: "+data.getLineCount());
+            System.out.println("Words: "+data.getWordCount());
+            System.out.println();
+        }
     }
 }
