@@ -6,7 +6,8 @@ import java.util.List;
 
 public class FileProcessingApp {
     public static void main(String[] args) {
-
+        int totalLines=0;
+        int totalWords=0;
 
         System.out.println("Scanning directory......\n");
 
@@ -27,10 +28,19 @@ public class FileProcessingApp {
         System.out.println("Processing files......\n");
         for(File file : textFiles){
             FileStats data = FileProcessor.processFile(file);
+            totalLines += data.getLineCount();
+            totalWords += data.getWordCount();
             System.out.println("File: " +data.getFileName());
             System.out.println("Lines: "+data.getLineCount());
             System.out.println("Words: "+data.getWordCount());
             System.out.println();
         }
+
+        System.out.println("---------------------------------------------");
+        System.out.println("SUMMARY");
+        System.out.println("---------------------------------------------");
+        System.out.println("Total files processed: "+textFiles.size());
+        System.out.println("Total lines: "+totalLines);
+        System.out.println("Total words: "+totalWords);
     }
 }
