@@ -1,4 +1,3 @@
-File processing is a common backend task
-File processing is a common backend task
-ExecutorService manages thread pools
 Concurrency allows parallel task execution
+Data structures improve algorithm efficiency
+Artificial Intelligence is transforming industries

@@ -1,7 +1,5 @@
-Spring Boot is widely used for microservices
 Data structures improve algorithm efficiency
+Multithreading improves performance
 File processing is a common backend task
-Spring Boot is widely used for microservices
-Spring Boot is widely used for microservices
-File processing is a common backend task
-Data structures improve algorithm efficiency
+Concurrency allows parallel task execution
+ExecutorService manages thread pools

@@ -1,5 +1,4 @@
+ExecutorService manages thread pools
 File processing is a common backend task
-Artificial Intelligence is transforming industries
-Artificial Intelligence is transforming industries
-Artificial Intelligence is transforming industries
-Concurrency allows parallel task execution
+Java is a powerful programming language
+Multithreading improves performance

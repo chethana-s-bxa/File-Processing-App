@@ -1,7 +1,3 @@
-Artificial Intelligence is transforming industries
+Concurrency allows parallel task execution
+Data structures improve algorithm efficiency
 File processing is a common backend task
-File processing is a common backend task
-File processing is a common backend task
-ExecutorService manages thread pools
-Multithreading improves performance
-Spring Boot is widely used for microservices

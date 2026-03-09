@@ -1,6 +1,4 @@
-File processing is a common backend task
-Java is a powerful programming language
+Data structures improve algorithm efficiency
+Data structures improve algorithm efficiency
 Multithreading improves performance
-Artificial Intelligence is transforming industries
-Concurrency allows parallel task execution
-Java is a powerful programming language
+File processing is a common backend task

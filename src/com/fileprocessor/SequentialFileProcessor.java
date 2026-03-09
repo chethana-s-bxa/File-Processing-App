@@ -11,17 +11,29 @@ public class SequentialFileProcessor {
         int totalLines = 0;
         int totalWords = 0;
 
-        for (File file : files) {
+        int batchSize = 100;
 
-            FileStats data = FileProcessor.processFile(file);
+        for (int i = 0; i < files.size(); i += batchSize) {
 
-            totalLines += data.getLineCount();
-            totalWords += data.getWordCount();
+            int end = Math.min(i + batchSize, files.size());
 
-            System.out.println("File: " + data.getFileName());
-            System.out.println("Lines: " + data.getLineCount());
-            System.out.println("Words: " + data.getWordCount());
-            System.out.println();
+            List<File> batch = files.subList(i, end);
+
+            System.out.println("Processing batch: " + (i / batchSize + 1));
+            System.out.println("----------------------------------");
+
+            for (File file : batch) {
+
+                FileStats data = FileProcessor.processFile(file);
+
+                totalLines += data.getLineCount();
+                totalWords += data.getWordCount();
+
+                System.out.println("File: " + data.getFileName());
+                System.out.println("Lines: " + data.getLineCount());
+                System.out.println("Words: " + data.getWordCount());
+                System.out.println();
+            }
         }
 
         return new FileStats("SEQUENTIAL", totalLines, totalWords);

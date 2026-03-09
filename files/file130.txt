@@ -1,7 +1,4 @@
-Artificial Intelligence is transforming industries
 Java is a powerful programming language
+Multithreading improves performance
+Multithreading improves performance
 Artificial Intelligence is transforming industries
-Java is a powerful programming language
-File processing is a common backend task
-Artificial Intelligence is transforming industries
-Concurrency allows parallel task execution

@@ -1,7 +1,4 @@
-File processing is a common backend task
-Java is a powerful programming language
-Artificial Intelligence is transforming industries
+ExecutorService manages thread pools
 Spring Boot is widely used for microservices
 Multithreading improves performance
-ExecutorService manages thread pools
-Artificial Intelligence is transforming industries
+File processing is a common backend task

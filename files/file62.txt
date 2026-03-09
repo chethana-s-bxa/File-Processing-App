@@ -1,3 +1,5 @@
 Multithreading improves performance
-Spring Boot is widely used for microservices
-Concurrency allows parallel task execution
+ExecutorService manages thread pools
+Multithreading improves performance
+File processing is a common backend task
+File processing is a common backend task

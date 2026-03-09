@@ -18,16 +18,12 @@ public class GenerateFile {
                 "Java is a powerful programming language",
                 "Multithreading improves performance",
                 "ExecutorService manages thread pools",
-                "Concurrency allows parallel task execution",
-                "File processing is a common backend task",
-                "Spring Boot is widely used for microservices",
-                "Data structures improve algorithm efficiency",
-                "Artificial Intelligence is transforming industries"
+                "Concurrency allows parallel task execution"
         };
 
         Random random = new Random();
 
-        for (int i = 4; i <= numberOfFiles; i++) {
+        for (int i = 1; i <= numberOfFiles; i++) {
 
             File file = new File(directory, "file" + i + ".txt");
 
@@ -47,7 +43,5 @@ public class GenerateFile {
                 e.printStackTrace();
             }
         }
-
-        System.out.println(numberOfFiles - 3 + " dummy files generated successfully.");
     }
 }

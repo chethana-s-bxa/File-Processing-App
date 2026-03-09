@@ -7,9 +7,7 @@ import java.util.List;
 public class FileProcessingApp {
 
     public static void main(String[] args) {
-
         GenerateFile.generateDummyFiles(200);
-
         long startTime = System.currentTimeMillis();
 
         File directory = new File("files");
@@ -20,7 +18,7 @@ public class FileProcessingApp {
         if (files != null) {
             for (File file : files) {
 
-                if (file.isFile() && file.getName().endsWith(".txt")) {
+                if (file.isFile()) {
                     textFiles.add(file);
                 }
             }
@@ -34,7 +32,7 @@ public class FileProcessingApp {
 
 
 
-        boolean useConcurrent = false;
+        boolean useConcurrent = true;
 
         if (!useConcurrent) {
 

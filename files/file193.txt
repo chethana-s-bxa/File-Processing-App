@@ -1,5 +1,6 @@
+Multithreading improves performance
 Data structures improve algorithm efficiency
+Multithreading improves performance
 Spring Boot is widely used for microservices
-Spring Boot is widely used for microservices
-ExecutorService manages thread pools
+File processing is a common backend task
 Spring Boot is widely used for microservices
